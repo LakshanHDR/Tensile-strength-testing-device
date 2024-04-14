@@ -16,3 +16,8 @@ of 0 to 400 mm. Testing results in force and displacement with a deviation of ±
 values can be measured. From the results obtained, it can be concluded that the machine
 developed in this work can be used to perform tensile tests on nano fiber mats with reliable
 results. The approximate cost of the constructed UTM is 100 US dollars.
+
+"Universal Tensile Testing Machine VERSION TWO" is available under a Creative Commons CC BY-NC-SA 4.0 
+license from Instructables at https://www.instructables.com/Universal-Tensile-Testing-Machine-VERSION-TWO/. 
+For details of the license, see https://creativecommons.org/licenses/by-nc-sa/4.0/. 
+Modifications made by [LakshanHDR].
